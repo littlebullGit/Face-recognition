@@ -3,7 +3,6 @@ import os
 import math
 import random
 import argparse
-import sys
 from typing import Tuple, List, Optional
 
 import numpy as np
